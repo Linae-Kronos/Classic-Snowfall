@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Classic Snowfall
+## Author: Vallan
+## Notes: Keydown Cast Support for Vanilla
+## Version: 0.4
+## SavedVariablesPerCharacter: CS_SELF_ENABLED
+
+ClassicSnowfall.lua
